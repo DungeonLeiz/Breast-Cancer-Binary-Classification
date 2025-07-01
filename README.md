@@ -56,10 +56,6 @@ The project follows this structure
     + README.MD
 ```
 
-## Contributing
-
-https://github.com/RyukoRyukai-AE
-
 ## Contact
 
 Email: dungld.22bi13103@usth.edu.vn
