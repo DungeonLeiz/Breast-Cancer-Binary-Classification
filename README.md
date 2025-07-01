@@ -2,10 +2,15 @@
 Machine Learning on Med Final Project
 
 This is group 3 project. Member:
+
     - Le Duc Dung - 22BI13103
+
     - Nguyen Tien Cong - 22BI13067
+
     - Do Duy Minh - 22BI13280
+
     - Trinh Van Quyet - 22BI13378
+    
     - Tran Tuan Kiet - 22BI13233
 
 ## Table of Contents
